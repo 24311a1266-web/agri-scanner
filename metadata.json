@@ -1,0 +1,6 @@
+{
+  "name": "AgriScanner - Farm Product Label Reader & Audio Assistant",
+  "description": "AI-powered agricultural product label scanner that extracts, verifies, simplifies, and speaks seed and pesticide instructions in regional languages with safety gates.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
